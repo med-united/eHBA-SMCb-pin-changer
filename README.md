@@ -1,6 +1,6 @@
 # PIN Changer for Gematik
 
-This utility will connect to the KoPS system and trigger a PIN Change on the physical terminal
+This utility will connect to the KoPS system and trigger a PIN Change on the physical terminal.
 
 # Setup
 ```
